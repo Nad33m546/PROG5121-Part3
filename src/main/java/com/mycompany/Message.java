@@ -1,4 +1,4 @@
-package com.mycompany;
+package com.mycompany.login;
 
 import java.util.Random;
 
